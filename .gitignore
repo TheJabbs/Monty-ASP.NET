@@ -1,0 +1,18 @@
+﻿# Ignore build output
+bin/
+obj/
+Dependencies/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore environment files
+.env
+
+# Ignore Rider IDE files
+.idea/
+*.DotSettings
+
+appsettings.json
+
